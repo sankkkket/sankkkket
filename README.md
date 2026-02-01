@@ -17,7 +17,7 @@ I act as the vital link between clients and development agencies. My approach is
 📚 **Continuous Growth**
 I’m currently diving deep into advanced Data Structures and AI integration patterns, ensuring that the foundations of the projects I oversee are built to stand the test of time.
 
-<br><br>🌎**Let’s Connect!**<br>I am actively seeking new opportunities to collaborate, consult, and create software that leaves a lasting impression. Explore my repositories to see how technology and strategy converge.<br><br>
+<br>🌎**Let’s Connect!**<br>I am actively seeking new opportunities to collaborate, consult, and create software that leaves a lasting impression. Explore my repositories to see how technology and strategy converge.<br>
 
 
 ## 🌐 Socials:
